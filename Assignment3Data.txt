@@ -1,0 +1,7 @@
+Abby	cat
+Benny	dog
+Cookie	dog
+Dolly	cat
+Eddy	dog
+Fluffy	cat
+Gabby	dog
